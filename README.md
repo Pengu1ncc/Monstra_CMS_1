@@ -1,2 +1,2 @@
 # Monstra_CMS_1
-Create CTF test questions for new students
+启动命令：docker-compose build up -d
